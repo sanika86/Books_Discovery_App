@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425407531063",
+    "project_id": "ds-books-app",
+    "storage_bucket": "ds-books-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425407531063:android:537085eb1e3426b02957b2",
+        "android_client_info": {
+          "package_name": "com.example.ds_books_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425407531063-8fej2ccld7hhdm89k64sg6f8dd0tsj5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ds_books_app",
+            "certificate_hash": "80c99f120a197262c174be667aeb43ed99c657c2"
+          }
+        },
+        {
+          "client_id": "425407531063-4js2ar0u1bjh03l06iogrd1gshiql8iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCME1N1Pg31HjRn1QJNgiN9fR4lljRGCYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425407531063-4js2ar0u1bjh03l06iogrd1gshiql8iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
