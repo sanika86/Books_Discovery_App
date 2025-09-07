@@ -15,13 +15,18 @@ The app is built with clean architecture, proper state management, and Firebase 
 ---
 
 ## 📸 Screenshots
-Add your app screenshots inside a folder named `screenshots/` and reference them here:
+Add your app screenshots inside a folder named `screenshots/` 
+## 📸 Screenshots
 
-![Home Screen](screenshots/home.png)  
-![Book Details](screenshots/details.png)  
-![Login Page](screenshots/login.png)  
+![Login](screenshots/login.jpeg)  
+![Sign Up](screenshots/signup.jpeg)  
+![Onboarding](screenshots/onboarding.jpeg)  
+![Verification](screenshots/verification.jpeg)  
+![Home](screenshots/home.jpeg)  
+![Contacts](screenshots/contacts.jpeg)  
+![Analytics Page](screenshots/analystics_page.jpeg)  
+![Profile](screenshots/profile.jpeg)
 
----
 
 ## 🧩 State Management
 The app uses **Riverpod** for managing state.  
@@ -41,15 +46,7 @@ This approach makes the app more scalable, testable, and easy to maintain.
 
 ---
 
-## 🔑 Firebase Setup (Do NOT Share API Keys)
-To run the project locally:  
-1. Create a Firebase project in the [Firebase Console](https://console.firebase.google.com).  
-2. Enable **Email/Password Authentication**.  
-3. Download `google-services.json` and place it in `android/app/`.  
-4. **Do not** commit API keys or `google-services.json` to GitHub.  
-
----
 
 ## 📦 APK (Production Build)
 A release APK can be found at:  
-
+https://drive.google.com/drive/folders/1sHOUv9uS3zsITQ1UTusqQfeIscQmaoZd?usp=sharing
